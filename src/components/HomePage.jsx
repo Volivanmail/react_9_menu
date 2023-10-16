@@ -1,3 +1,4 @@
+/* eslint-disable no-irregular-whitespace */
 export default function HomePage() {
     return (
         <article className="article">
